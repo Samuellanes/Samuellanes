@@ -1,6 +1,6 @@
  ## Olá! Eu sou samuellanes.
 
-- 🌱 Estou estudando HTML5,CSS3 e JavaScript.
+- 🌱 Estou estudando HTML5,CSS3 e JAVASCRIPT.
 - 📫 Contate-me no email: samuel.lannes@icloud.com
 
 <div>
